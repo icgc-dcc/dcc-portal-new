@@ -410,7 +410,7 @@
     <commons-math.version>3.4.1</commons-math.version>
 
     <!-- Versions - Logging -->
-    <logback.version>1.1.7</logback.version>
+    <logback.version>1.2.0</logback.version>
     
     <!-- Versions - Testing -->
     <elasticsearch-test.version>${elasticsearch.version}</elasticsearch-test.version>
