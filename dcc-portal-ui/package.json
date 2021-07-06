@@ -86,7 +86,7 @@
     "matchdep": "1.0.1",
     "modularscale-sass": "2.1.1",
     "ng-annotate-loader": "0.2.0",
-    "node-sass": "3.10.0",
+    "node-sass": "4.13.1",
     "opn": "4.0.2",
     "phantomjs-prebuilt": "2.1.13",
     "postcss-loader": "^1.2.1",
