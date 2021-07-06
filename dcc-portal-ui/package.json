@@ -160,7 +160,7 @@
     "lodash": "4.17.13",
     "lodash-migrate": "^0.3.16",
     "lodash.keyby": "4.6.0",
-    "marked": "0.3.9",
+    "marked": "0.3.18",
     "mathsass": "0.9.5",
     "memoizee": "0.4.1",
     "ng-annotate-loader": "0.2.0",
