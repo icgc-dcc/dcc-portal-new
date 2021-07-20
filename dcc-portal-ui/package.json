@@ -177,7 +177,7 @@
     "redux-thunk": "^2.2.0",
     "restangular": "1.5.2",
     "singularitygs": "1.7.0",
-    "urijs": "1.16.1",
+    "urijs": "1.19.7",
     "x2js": "^3.1.0",
     "zeroclipboard": "2.2.0"
   }
